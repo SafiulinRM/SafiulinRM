@@ -1,16 +1,20 @@
-### Hi there 👋
+### Привет 👋
 
-<!--
-**SafiulinRM/SafiulinRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### Немного обо мне:
 
-Here are some ideas to get you started:
+ - Меня зовут _Сафиулин Роман_
+ - Мне _25 лет_
+ - Я _Java-разработчик_ из России, _г. Альметьевск_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Связаться со мной можно:
+<a href="https://t.me/Safiulin_R_M">
+    <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="My telegram"/>
+</a>
+<a href="mailto:rsafiulin96@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?color=white&logo=Gmail&logoColor=red" alt="My Gmail"/>
+</a>
+
+---
